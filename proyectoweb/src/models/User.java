@@ -78,7 +78,7 @@ public class User {
         this.user_pass = user_pass;
     }
 
-    public boolean isUser_state() {
+    public boolean getUser_state() {
         return user_state;
     }
 
